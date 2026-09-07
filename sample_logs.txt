@@ -1,0 +1,7 @@
+2026-09-04 08:14:22 Host: DC01 User: jsmith EventCode: 4625 Reason: BadPassword
+2026-09-04 08:14:25 Host: DC01 User: jsmith EventCode: 4625 Reason: BadPassword
+2026-09-04 08:14:29 Host: DC01 User: jsmith EventCode: 4625 Reason: BadPassword
+2026-09-04 08:15:01 Host: DC01 User: admin EventCode: 4625 Reason: BadPassword
+2026-09-04 08:20:10 Host: DC01 User: cameron EventCode: 4624 Reason: Success
+2026-09-04 08:22:44 Host: DC01 User: admin EventCode: 4625 Reason: BadPassword
+2026-09-04 08:25:16 Host: DC01 User: jsmith EventCode: 4624 Reason: Success
